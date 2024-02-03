@@ -13613,7 +13613,7 @@ nav[aria-label="breadcrumb"] li:before {
 }
 
 .map {
-  margin-left: 210px;
+  /* margin-left: 210px; */
   height: 200px;
   width: 500px;
 }
